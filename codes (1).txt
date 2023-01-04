@@ -1,0 +1,4 @@
+git status : chequea los archivos
+git add . : añade un archivo
+git commit -m "nombre" : comitea archivo
+git push origin main : pushea las acciones realizadas
